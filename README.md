@@ -1,1 +1,3 @@
 # scrapy_segmentfault
+
+爬了segmentfault的文章下的推荐文章的title和url并写入到数据库里，现在在想怎么把文章爬出来。。

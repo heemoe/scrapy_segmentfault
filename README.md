@@ -1,3 +1,7 @@
 # scrapy_segmentfault
 
-爬了segmentfault的文章下的推荐文章的title和url并写入到数据库里，现在在想怎么把文章爬出来。。
+#### Crawl segmentfault recommend blog posts;
+
+### IDE : PyCharm
+### Python version : 2.7.10
+### Scrapy version : 1.0.5

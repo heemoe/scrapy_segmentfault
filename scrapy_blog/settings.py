@@ -13,7 +13,7 @@ BOT_NAME = 'scrapy_blog'
 
 SPIDER_MODULES = ['scrapy_blog.spiders']
 NEWSPIDER_MODULE = 'scrapy_blog.spiders'
-
+LOG_LEVEL = 'INFO'
 ITEM_PIPELINES = {'scrapy_blog.pipelines.ScrapyBlogPipeline':1000,}
 MONGODB_SERVER="localhost"
 MONGODB_PORT=27017
